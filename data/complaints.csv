@@ -1,0 +1,31 @@
+case_id,customer_name,customer_email,order_id,product,complaint_text,submitted_at
+C001,Jean Muller,jean.muller@example.com,ORD-1001,Industrial Sensor X1,"The sensor stopped reporting temperature after two days of operation. We restarted the unit but the problem remains.",2026-08-01 08:42:00
+C002,Sophie Weber,sophie.weber@example.com,ORD-1002,Control Module C4,"We received five control modules and two have visible cracks in the casing. They cannot be installed.",2026-08-01 09:15:00
+C003,Marc Hoffmann,marc.hoffmann@example.com,ORD-1003,Industrial Sensor X1,"Our invoice contains 12 units but we only ordered 10. Please correct the invoice.",2026-08-01 10:03:00
+C004,Anna Schmidt,anna.schmidt@example.com,ORD-1004,Power Unit P2,"The delivery was expected three days ago and has still not arrived. Production is waiting for these components.",2026-08-01 11:27:00
+C005,David Klein,david.klein@example.com,ORD-1005,Control Module C4,"The module repeatedly disconnects from our network every few minutes. This is affecting one production line.",2026-08-01 13:08:00
+C006,Laura Becker,laura.becker@example.com,ORD-1006,Power Unit P2,"One unit started producing a burning smell during operation so we immediately disconnected it.",2026-08-02 07:51:00
+C007,Thomas Wagner,thomas.wagner@example.com,ORD-1007,Industrial Sensor X1,"The shipment arrived but the mounting brackets were not included in the package.",2026-08-02 09:32:00
+C008,Claire Meyer,claire.meyer@example.com,ORD-1008,Control Module C4,"Could you send us another copy of the invoice for this order?",2026-08-02 10:44:00
+C009,Paul Fischer,paul.fischer@example.com,ORD-1009,Power Unit P2,"Three units are showing error code E17 immediately after startup. We cannot commission the equipment.",2026-08-02 12:19:00
+C010,Emma Laurent,emma.laurent@example.com,ORD-1010,Industrial Sensor X1,"The package arrived damaged and one sensor appears to be bent.",2026-08-02 14:02:00
+C011,Nicolas Bernard,nicolas.bernard@example.com,ORD-1011,Control Module C4,"Our order has not arrived and tracking has not updated for five days.",2026-08-03 08:11:00
+C012,Julie Martin,julie.martin@example.com,ORD-1012,Power Unit P2,"The power unit shuts down after approximately 20 minutes of operation.",2026-08-03 09:26:00
+C013,Lucas Dupont,lucas.dupont@example.com,ORD-1013,Industrial Sensor X1,"We were charged twice for the same order.",2026-08-03 10:37:00
+C014,Marie Lambert,marie.lambert@example.com,ORD-1014,Control Module C4,"Four modules arrived with scratches and damaged connectors.",2026-08-03 12:04:00
+C015,Alexandre Simon,alexandre.simon@example.com,ORD-1015,Power Unit P2,"Our main production line is stopped because the replacement power unit is not functioning. We need urgent assistance.",2026-08-03 14:48:00
+C016,Elena Rossi,elena.rossi@example.com,ORD-1016,Industrial Sensor X1,"The sensor readings fluctuate significantly even when the measured temperature is stable.",2026-08-04 08:23:00
+C017,Matteo Romano,matteo.romano@example.com,ORD-1017,Control Module C4,"We ordered eight units but received only six.",2026-08-04 09:39:00
+C018,Isabelle Leroy,isabelle.leroy@example.com,ORD-1018,Power Unit P2,"Please explain the additional service charge appearing on our latest invoice.",2026-08-04 11:05:00
+C019,Daniel Peters,daniel.peters@example.com,ORD-1019,Industrial Sensor X1,"The device cannot connect to the monitoring software after yesterday's firmware update.",2026-08-04 13:31:00
+C020,Sarah Braun,sarah.braun@example.com,ORD-1020,Control Module C4,"The delivery arrived one week late.",2026-08-04 15:12:00
+C021,George Nikolaou,george.nikolaou@example.com,ORD-1021,Power Unit P2,"Two power units failed during the first hour of operation and our backup system is now running.",2026-08-05 07:58:00
+C022,Helena Costa,helena.costa@example.com,ORD-1022,Industrial Sensor X1,"The documentation included with the sensors is for a different model.",2026-08-05 09:17:00
+C023,Robert Stein,robert.stein@example.com,ORD-1023,Control Module C4,"We need to change the billing address associated with this order.",2026-08-05 10:49:00
+C024,Amelie Gerard,amelie.gerard@example.com,ORD-1024,Power Unit P2,"The shipment box was wet when delivered and we are concerned that the equipment may have been damaged.",2026-08-05 12:33:00
+C025,Peter Janssen,peter.janssen@example.com,ORD-1025,Industrial Sensor X1,"The sensor has completely stopped working and the machine depending on it cannot currently operate.",2026-08-05 15:21:00
+C026,,missing@example.com,ORD-1026,Control Module C4,"The unit does not work after installation.",2026-08-06 08:12:00
+C027,John Smith,john.smith@example.com,,Power Unit P2,"The equipment arrived damaged.",2026-08-06 09:34:00
+C028,Lisa Meyer,lisa.meyer@example.com,ORD-1028,,"The product we received appears defective.",2026-08-06 10:47:00
+C029,Michael Weber,,ORD-1029,Industrial Sensor X1,"The sensor stopped working yesterday.",2026-08-06 12:16:00
+C030,Charlotte Klein,charlotte.klein@example.com,ORD-1030,Control Module C4,,2026-08-06 14:03:00

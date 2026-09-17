@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: postgres:17
+    container_name: complaint_postgres
+
+    environment:
+      POSTGRES_USER: complaint_user
+      POSTGRES_PASSWORD: complaint_password
+      POSTGRES_DB: complaint_db
+
+    ports:
+      - "5433:5432"
+
+    volumes:
+      - complaint_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  complaint_postgres_data:
