@@ -300,6 +300,21 @@ The dashboard is normally available at:
 http://localhost:8501
 ```
 
+## Screenshots
+
+### Operational Dashboard
+
+The Streamlit dashboard provides real-time visibility into complaint processing KPIs, AI classifications, routing decisions, and recent cases.
+
+![Complaint Triage Dashboard](docs/dashboard.png)
+
+### REST API
+
+FastAPI provides documented endpoints for complaint submission, complaint retrieval, and operational metrics.
+
+![FastAPI Swagger Documentation](docs/swagger.png)
+
+
 ## Testing
 
 Run the automated test suite with:
